@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @aziz4980
-- 👀 I’m interested in the MERN stack, React native, Flutter, JS(ES6)
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on any project that helps me learn and contribute to the wold.
+
+- Software Engineer. Tech Stack: React / React Native, Tailwind, Typescript, Bootstrap, HTML, CSS, Java Script
 - 📫 I can be reached throuhj my email: abdul.aziz.khan.1122@gmail.com
 
 <!---
