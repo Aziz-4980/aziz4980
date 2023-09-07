@@ -1,6 +1,6 @@
 
 - Software Engineer. Tech Stack: React / React Native, Tailwind, Typescript, Bootstrap, HTML, CSS, Java Script
-- 📫 I can be reached throuhj my email: abdul.aziz.khan.1122@gmail.com
+- 📫 I can be reached throuh my email: abdul.aziz.khan.1122@gmail.com
 - other github 🔥: https://github.com/aziz-4980
 
 <!---
